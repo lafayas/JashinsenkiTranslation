@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "gamePackage": "jp.co.fanzagames.rlyehshoujotai_x",
+  "packs": [
+    {
+      "packId": "jashinsenki-zh-CN-1.0.29-20260902-r2",
+      "supportedGameVersions": [
+        "1.0.29"
+      ],
+      "url": "https://raw.githubusercontent.com/lafayas/JashinsenkiTranslation/main/android-cache/packs/jashinsenki-zh-CN-1.0.29-20260902-r2-pack.zip",
+      "sha256": "e3a9ee7d740dc68200f58c84ccc8cc7928070a72b1ce2ff6ccbd7dccae69eeb5",
+      "size": 5101622,
+      "publishedAt": "2026-09-02T12:08:50.7493179Z"
+    }
+  ]
+}
