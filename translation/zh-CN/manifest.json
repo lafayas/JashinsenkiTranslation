@@ -1,10 +1,10 @@
 {
-  "entryCount": 45513,
-  "generatedAt": "2026-09-18T14:51:40+09:00",
+  "entryCount": 47131,
+  "generatedAt": "2026-09-25T15:52:25+09:00",
   "language": "zh-CN",
-  "packBytes": 12559532,
+  "packBytes": 13004476,
   "packFile": "pack.json",
-  "packSha256": "d5a3ae6c9fbab6650392d9f364a36a830d3a231d19da46a6c1fb23530723a4bc",
-  "sceneCount": 627,
+  "packSha256": "beda4b27db346e995a0342fc98f39bf72def2bab6abddc09104279dcdc0db4d6",
+  "sceneCount": 651,
   "schemaVersion": 1
 }
